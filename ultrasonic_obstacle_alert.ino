@@ -1,4 +1,3 @@
-// EAZYTRONIC.COM
 const int trigPin = 6;
 const int echoPin = 7;
 long duration;
